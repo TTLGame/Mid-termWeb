@@ -1,0 +1,13 @@
+import React from "react"
+import Header from "../Header"
+import Body from "../Body"
+const Classroom = () => {
+    return (
+        <div>
+            <Header />
+            <Body />
+        </div>
+    );
+}
+
+export default Classroom
